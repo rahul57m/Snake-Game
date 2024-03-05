@@ -1,5 +1,5 @@
 # Snake-Game
-The Snake Game using This
+The Snake Game Done By using This
 
 <p align="center">
   <a href="https://skillicons.dev">
